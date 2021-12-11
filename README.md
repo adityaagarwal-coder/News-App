@@ -22,6 +22,7 @@ External dependencies used:
   flutter_svg: ^0.23.0+1 //Svg files insertion
   url_launcher: ^6.0.17 //Redirecting to external URL in web browser
 
+Source code: https://github.com/adityaagarwal-coder/News-App/tree/master
 Reference design link: https://dribbble.com/shots/15500673-Domoco-News-UI-KIT
 Video Preview link: https://drive.google.com/file/d/1PpxKa9scc93S_KW-2KN7u4PhC_jA2Rz2/view?usp=sharing
 APK link: https://drive.google.com/file/d/1uBkjHh-MbBbKo4DodbaSIneO_Oh9GbPX/view?usp=sharing
